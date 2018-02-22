@@ -9,7 +9,7 @@ To use install the requirements:
 ```
 pip install -f requirements.txt
 ```
-and the run the script:
+and then run the script:
 ```
 python pwnpass.py
 ```
